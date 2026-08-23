@@ -1,4 +1,4 @@
-class Person{
+export default class Person{
     constructor(public name : String, public age : number){}
     displayInfo() : void{
         console.log(`Name: ${this.name}, age : ${this.age}`)

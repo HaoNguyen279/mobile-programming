@@ -1,0 +1,7 @@
+fetch("https://jsonplaceholder.typicode.com/todos/1").then(data => data.json().then(res => console.log(res)))
+fetch("https://jsonplaceholder.typicode.com/todos/2").then(data => data.json().then(res => console.log(res)))
+fetch("https://jsonplaceholder.typicode.com/todos/3").then(data => data.json().then(res => console.log(res)))
+fetch("https://jsonplaceholder.typicode.com/todos/4").then(data => data.json().then(res => console.log(res)))
+fetch("https://jsonplaceholder.typicode.com/todos/5").then(data => data.json().then(res => console.log(res)))
+fetch("https://jsonplaceholder.typicode.com/todos/7").then(data => data.json().then(res => console.log(res)))
+fetch("https://jsonplaceholder.typicode.com/todos/8").then(data => data.json().then(res => console.log(res)))
